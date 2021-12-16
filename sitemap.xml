@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/bases_raster_tiles/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/bases_raster_tiles/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/demostradors/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/demostradors/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/eines/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/eines/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/estils_ambit_catalunya_per_vector_tiles/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/estils_ambit_catalunya_per_vector_tiles/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/estils_ambit_mundial_per_vector_tiles/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/estils_ambit_mundial_per_vector_tiles/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/piramides_vector_tiles/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/piramides_vector_tiles/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://abrobia.github.io/mkdocs-project/terrenys/</loc>
+         <loc>https://geostarters.github.io/mkdocs-openicgc/terrenys/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
