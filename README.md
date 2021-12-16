@@ -1,8 +1,8 @@
 # Projecte MkDocs
 
-Projecte de test usant [Mkdocs](https://www.mkdocs.org/) com a eina de documentació i [GitHub Pages](https://pages.github.com/) com a eina de publicació. 
+Projecte de test usant [Mkdocs](https://www.mkdocs.org/) com a eina de documentació i [GitHub Pages](https://pages.github.com/) com a eina de publicació:  
 
-https://abrobia.github.io/mkdocs-project/  
+https://geostarters.github.io/mkdocs-openicgc/    
 
 
 ## 1. Instal·lació Mkdocs en local
@@ -10,7 +10,7 @@ https://abrobia.github.io/mkdocs-project/
 Instal·lem Mkdocs:
 ```
 pip install mkdocs
-```  
+```    
 
 ## 2. Creació inicial del projecte
 
@@ -19,7 +19,7 @@ Creem una carpeta en qualsevol directori del nostre ordinador on emmagtzemarem t
 ```
 mkdocs new NOM_DEL_PROJECTE
 cd NOM_DEL_PROJECTE
-```  
+```    
 
 ## 3. Inicialització del servidor virtual
 
@@ -29,7 +29,7 @@ Iniciem el servidor Mkdocs:
 mkdocs serve
 ```
 
-Accedim a http://127.0.0.1:8000 per veure el nostre projecte local des del navegador.    
+Accedim a http://127.0.0.1:8000 per veure el nostre projecte local des del navegador.      
 
 
 ## 4. Configuració
@@ -38,7 +38,7 @@ Els fitxers font de la documentació s'escriuen a Markdown i es configuren amb u
 
 * Creem les pàgines .md de contingut.
 * Escollim un [theme](https://www.mkdocs.org/user-guide/choosing-your-theme/).
-* Afegim els [pluguins](https://www.mkdocs.org/dev-guide/plugins/) que desitgem.  
+* Afegim els [pluguins](https://www.mkdocs.org/dev-guide/plugins/) que desitgem.    
 
 
 ## 5. Publicació amb GitHub pages
@@ -59,13 +59,13 @@ site/ > .gitignore
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/abrobia/mkdocs-project.git
+git remote add origin https://github.com/geostarters/mkdocs-openicgc.git
 git push -u origin main
 mkdocs gh-deploy
 ```  
 
 Si tot ha anat bé, la web s'haurà creat i la consola mostrarà el següent missatge final:  
-_Your documentation should shortly be available at:_ https://abrobia.github.io/mkdocs-project/  
+_Your documentation should shortly be available at:_ https://geostarters.github.io/mkdocs-openicgc/    
 
 
 ## 6. Actualització
@@ -83,4 +83,4 @@ mkdocs gh-deploy
 ```  
 
 Si tot ha anat bé, la consola mostrarà el següent missatge final:  
-_Your documentation should shortly be available at:_ https://abrobia.github.io/mkdocs-project/  
+_Your documentation should shortly be available at:_ https://geostarters.github.io/mkdocs-openicgc/  
